@@ -4,7 +4,7 @@ This is demo project illustrating a real life company problem where we have to b
 #
 We have a toy dataset for a company's customer care centre (call centre/help centre) focusing on the chat times and responses by the agents as well as bot.
 
-The details/explanation about the different columns is given in 'Chat Data Analystics.xlsx' file in 'Columns Explanation' worksheet. 
+The dataset and its details/explanation about the different columns is given in 'Chat Dataset.xlsx' file in 'Chat Data' and 'Columns Explanation' worksheet respectively. 
 #
 We have to calculate Chat metrics and Agent Metrics separately in different worksheets in the format as specified in 'Report Format - Chat Data Metrics.xlsx' file.
 
