@@ -1,4 +1,4 @@
-# Chat_Data_Analytics
+# Chat Data Analytics (Customer Care / Call Centre / Helpline)
 
 This is demo project illustrating a real life company problem where we have to build an automatic script which will read, process and save the results to an excel (xlsx format) file in an automatic way.
 #
